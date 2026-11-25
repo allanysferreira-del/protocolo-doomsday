@@ -70,5 +70,4 @@ console.log(villain.power(50))
 
 const ref = hero
 ref.power = 1
-
 console.log(hero.power);
